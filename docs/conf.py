@@ -4,7 +4,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Roadrunner Email Help Center'
+project = 'Sbcglobal Help Center'
 author = 'Support Team'
 release = '1.0'
 copyright = '2025'
