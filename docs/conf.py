@@ -4,10 +4,10 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Sbcglobal Help Site'
-author = 'Support Team'
+project = 'Sbcglobal Help Center'
+author = 'David Brin'
 release = '1.0'
-copyright = '2025'
+copyright = '2025 | Sbcglobal Help Center'
 
 extensions = [
     'sphinx.ext.autodoc',
